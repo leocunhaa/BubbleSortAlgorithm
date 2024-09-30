@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Acervo de Livros
+# Sistema de Gerenciamento de Acervo de Livro
 
 Este projeto implementa um sistema simples de gerenciamento de acervo de livros com funcionalidades avançadas, como a recomendação de livros baseada em autores. Utilizamos uma **Árvore Binária de Busca (BST)** para organizar e otimizar operações de busca e recomendação de livros.
 
